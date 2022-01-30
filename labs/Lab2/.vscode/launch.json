@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        "s", "wow"
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/mikhail97/University/Graduate_1_year/CS_532_Systems_programing/labs/Lab2",
+      "environment": [],
+      "program": "/Users/mikhail97/University/Graduate_1_year/CS_532_Systems_programing/labs/Lab2/read_line_get",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "lldb",
+      "externalConsole": true
+    }
+  ]
+}
